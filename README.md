@@ -1,3 +1,3 @@
-/br/bf# apnacollege-demo/br
-this is my first git repository/br
+/bf# apnacollege-demo/bn
+this is my first git repository/bn
 author -shradda khapra
